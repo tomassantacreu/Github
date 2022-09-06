@@ -1,0 +1,11 @@
+body {
+    background: red;
+
+}
+
+h1 {
+    color: white;
+    margin: 3rem;
+    padding: 3rem;
+    border: 2px solid white;
+}
